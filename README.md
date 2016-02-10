@@ -1,2 +1,2 @@
 # materializecss-rtl
-The Repository for maken ritgh to left materializecss 
+This Repository i will work on materializecss to maken ritgh to left materializecss-rtl
